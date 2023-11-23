@@ -29,6 +29,8 @@ Yes,<br>I am!
 </style>
 </head>
 <body>
-<button class="btn-1"><a href="https://www.google.com/">"Button 1</button>
+<a href="https://www.google.com/">
+<button class="btn-1">Button 1</button>
+</a>
 </body>
 </html>
