@@ -26,6 +26,7 @@
 <body>
 Hey! I'm Ethan! I program in Python, HTML, CSS, and dabble in a few other languages.
 You can check out my work below:
+<br/>
 <a href="https://github.com/fighter-Ethan/">
 <button class="btn-1">Github</button>
 </a>
